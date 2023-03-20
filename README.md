@@ -1,2 +1,7 @@
-# tempreader
-A dash application which reads from a google spreadsheet run as an exe file with a glasses and mask log in system. 
+<h1> How to use </h1>
+
+<ol>
+  <li> Download the zip file and extract the files
+  <li> Once done, open powershell and <b>cd</b> to the directory where the file is run
+  <li> Type <b style = "font-family:verdana;">.\webapp.exe</b> in powershell to run the program
+</ol>
